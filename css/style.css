@@ -1,6 +1,20 @@
 header{
 
 	border-color: black;
+	border-style: solid;
 	background-color: grey;
 	
 }
+
+
+main{
+		border-color: pink;
+		border-style: solid;
+
+ }
+
+ footer{
+
+ 	border-color: purple;
+ 	border-style: solid;
+ }
